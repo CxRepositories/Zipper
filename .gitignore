@@ -1,6 +1,7 @@
 target
 *.iws
 .gradle/
+.idea
 build/
 /bin/
 out/
